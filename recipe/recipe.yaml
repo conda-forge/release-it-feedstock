@@ -1,5 +1,5 @@
 context:
-  version: "18.1.2"
+  version: "19.0.1"
 
 package:
   name: release-it
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/release-it/-/release-it-${{ version }}.tgz
-  sha256: f35150b5144779a0cea9fc1929ef611e83d7a2f30ae0c622a9015ad3891ca167
+  sha256: 2ac5268b16cf75f7be33c05c8e4b2cd47c2dfa4e8f43a308fca02f8ef5e09fd7
 
 build:
   number: 0
